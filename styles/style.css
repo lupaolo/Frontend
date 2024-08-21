@@ -1,0 +1,64 @@
+/* Reset do CSS Padrão dos items */
+
+
+/* Selecionado Tag */
+body {
+    padding-bottom: 500px;
+}
+
+h2 {
+    font-size: 22px;
+    color: black;
+}
+
+h3 {
+    color: red;
+}
+
+label{
+    margin-top: 10px;
+}
+
+input{
+    margin: 10px 5px;
+}
+
+#m-hobbies{
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#obs-text{
+    position: relative;
+    top: 90px;
+}
+
+#obs-input{
+    width: 300px;
+    text-align: justify;
+    height: 200px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+.nested-table {
+    border: none;
+    width: 100%;
+}
+.nested-table td {
+    border: 1px solid black;
+    padding: 4px;
+}
+.nested-table th {
+    background-color: #e0e0e0;
+}
